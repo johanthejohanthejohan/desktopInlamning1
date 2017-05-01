@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JPA 2.0-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/eclipselink/jlib/eclipselink.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
