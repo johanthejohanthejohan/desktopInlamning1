@@ -3,5 +3,6 @@ Application that lists persons, persons can be filtered and sorted. Application 
 
 Before running the application go through the followin steps:
 1. In mysql create a database called person.
-2. In the application run the class called DummyData inside the services package. This may take a while to run.
-3. Now the application is ready to be used via the Main class in the application package.
+2. In the application fill in your mysql user and password in the persistence.xml file inside the META-INFO package.
+3. In the application run the class called DummyData inside the services package. This may take a while to run.
+4. Now the application is ready to be used via the Main class in the application package.
